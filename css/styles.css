@@ -1,0 +1,54 @@
+.header {
+  background-image: url('../images/landing.jpg');
+  text-align: center;
+  padding: 100px;
+  border: 0px;
+
+}
+
+.col-md-3{
+    text-align: center;
+    margin-top: 0px;
+    padding: 0px;
+
+}
+
+#bf {
+  color: white;
+  background-image: url(../images/foodtop/breakfast.jpg);
+  padding: 95px;
+}
+
+#lunch {
+  color: white;
+  background-image: url(../images/foodtop/lunch.jpg);
+  padding: 95px;
+}
+
+#dinner {
+  color: white;
+  background-image: url(../images/foodtop/dinner.jpg);
+  padding: 95px;
+  padding-right: 100px;
+}
+
+#hh {
+  margin-bottom: 0px;
+  background-color: lightgray;
+  text-align: center;
+  padding: 42.5px
+
+}
+
+#pt {
+  margin-top: 0px;
+  background-color: red;
+  text-align: center;
+  padding: 42.5px
+}
+
+#h2{
+  text-align: left;
+  color: black ;
+
+}
