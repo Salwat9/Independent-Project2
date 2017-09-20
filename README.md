@@ -1,11 +1,30 @@
-# Independent Project
+Project or program
+MORINGA SECOND WEEK INDEPENDENT PROJECT
 
-## Instructions
-  1) Please clone the this repo.
-  2) Create a new repo and copy the cloned folders into your new repo.
 
-  3) Fill in the form under the [IP submission](http://moringaprep-ft.herokuapp.com/#10.html) heading in the LMS
+Author name
+MUSTAPHA ABDUL RAZAK
 
-  4) Complete the independent project.
-  
-  5) Push your commits up to your repo.
+
+Description of project
+The IP is a design for Anita's Kitchen to take his business online to grow the her business and to accomodate online orders to grow her business earnings. It uses Bootstrap, CSS, HTML, JavaScript
+
+
+Requirements
+
+Git installed on Computer
+Web Browser, preferably Mozilla Firefox/Chrome
+
+Project setup instructions
+
+Use Atom to clone and open on a Browser or To setup this project on your local computer download the master branch using this link https://github.com/salwat9 or run the command on your PC if you have git installed. Copy the link and open it in your Browser. If compartibility issues arises you can Google to find way out.
+
+
+link to live site on GitHub Pages
+via https://salwat9.github.io/Independent-Project2/
+
+copyright and license information
+License
+This project is licensed under the MIT License - see the LICENSE.md file for more details
+
+ Copyright (c) {2017} **{Mustapha Abdul Razak Wiuc011896@wiuc-ghana-edu.gh}**
